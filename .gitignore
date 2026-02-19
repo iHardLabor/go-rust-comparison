@@ -1,0 +1,18 @@
+# Rust артефакты
+rust_app/target/
+rust_app/debug/
+**/*.rs.bk
+
+# Go артефакты
+go_app/bin/
+go_app_bench
+rust_app_bench
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Система
+.DS_Store
